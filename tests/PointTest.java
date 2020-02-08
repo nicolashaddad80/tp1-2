@@ -1,6 +1,6 @@
-package fr.cnam.tp1_2.tests;
+package fr.cnam.tp1and2.tests;
 
-import fr.cnam.tp2.point.Point;
+import fr.cnam.tp1and2.point.Point;
 import org.junit.Before;
 import org.junit.Test;
 

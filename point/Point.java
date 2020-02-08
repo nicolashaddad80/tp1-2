@@ -1,4 +1,4 @@
-package fr.cnam.tp2.point;
+package fr.cnam.tp1and2.point;
 /** 
  *  ___________________________________________________________<br>
  *                         NFP121:TP2 <br>                          
